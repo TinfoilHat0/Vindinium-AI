@@ -1,0 +1,4 @@
+1) Download the python start pack from http://vindinium.org/starters
+2) Put ai.py into the start pack folder
+3) Run the interface with: python client.py
+
